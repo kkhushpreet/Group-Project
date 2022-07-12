@@ -1,0 +1,19 @@
+.red {
+    color: red
+};
+
+.blue {
+    color: blue
+};
+
+.container {
+    width: 200;
+}
+
+.nav.navbar-nav li a {
+    color: rgb(3, 59, 225);
+  }
+ 
+ .nav.navbar-nav a:hover {
+  color: rgb(19, 133, 204);
+ }
